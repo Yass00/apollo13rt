@@ -2574,7 +2574,7 @@ Okay. That's good information. And during the time that we see you're continuing
 
 [60 27 59 - 60 28 18] CDR
 Okay, will do. And also, let me ask you a question: in this configuration, docked, we have to use the TTCA to control pitch and roll. And just how much can we use that without really changing our trajectory? We only have 60 miles to play with.
-> Lovell is concerned, because with the weight of the CSM attached to the LM the controls normally used to rotate the spacecraft don't do much (imagine twiddling a long stick between two fingers at its middle as opposed to at its ends), so he has to use the controls normally used to shift the spacecraft in space (now imagine flicking it in one direction at one end). But this has the potential to alter the trajectory of the spacecraft, and this close to the Moon very small adjustments can turn into miles of difference at the very far point.
+> Lovell is concerned, because with the weight of the CSM attached to the LM the controls normally used to rotate the spacecraft don't do much (imagine twiddling a long stick between two fingers at its middle as opposed to at its ends), so he has to use the controls normally used to shift the spacecraft in space (now imagine flicking it in one direction at one end). But this has the potential to alter the trajectory of the spacecraft, and this far to the Moon very small adjustments can turn into miles of difference at the very far point.
 
 [60 28 22 - 60 28 23] CAPCOM
 Roger. We'll put that to them.
