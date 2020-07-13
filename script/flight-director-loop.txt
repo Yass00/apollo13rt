@@ -11166,7 +11166,7 @@ Yeah. ENGINE GIMBAL off, MODE CONTROL to ATT HOLD, and utilize the TTCA.
 [61 18 54 - 61 18 55] FLIGHT
 Okay. So you changed the order.
 
-[61 18 57 - 61 19 07] GUIDO
+[61 18 57 - 61 19 07] CONTROL
 Well, this MODE CONTROL to ATT HOLD, he can do that - he should do that as soon as he can, but that - the most important thing is he get attitude control, and he has to do that with the TTCA. So it'll probably be a simultaneous thing.
 
 [61 19 08] FLIGHT
